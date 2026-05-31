@@ -21,17 +21,16 @@
 title: Adam Kolodziej
 email: kolodziej.adam.k@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my project portfolio. I worked mostly on the hardware side, so you won't find much code here (though there is some). Have fun exploring!
+  Welcome to my project portfolio!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 collections:
   projects:
