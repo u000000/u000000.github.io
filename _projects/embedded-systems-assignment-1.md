@@ -12,7 +12,7 @@ University of Southern Denmark
 ## Report
 
 <iframe
-  src="/assets/projects/EmbeddedSystems/Assignment1_Report_AdamKolodziej.pdf"
+  src="/assets/projects/embedded-systems/Assignment1_Report_AdamKolodziej.pdf"
   type="application/pdf"
   width="100%"
   height="800px">

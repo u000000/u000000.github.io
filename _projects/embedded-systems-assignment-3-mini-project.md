@@ -19,7 +19,7 @@ University of Southern Denmark
 ## Report
 
 <iframe
-  src="/assets/projects/EmbeddedSystems/ES_MiniProject.pdf"
+  src="/assets/projects/embedded-systems/ES_MiniProject.pdf"
   type="application/pdf"
   width="100%"
   height="800px">

@@ -12,7 +12,7 @@ University of Southern Denmark
 ## Report
 
 <iframe
-  src="/assets/projects/EmbeddedSystems/ES_Assigment_2_Group8.pdf"
+  src="/assets/projects/embedded-systems/ES_Assigment_2_Group8.pdf"
   type="application/pdf"
   width="100%"
   height="800px">

@@ -10,7 +10,8 @@ This is my project portfolio. I worked mostly on the hardware side, so you won't
 
 # Projects
 
-- [Embodied AI](/projects/embodied-ai/)
+- [A performance analysis of UAV landing methods](/projects/scientific-methods/)
 - [Embedded Systems Assignment 1: From FPGA (PL) to CPU (PS)](/projects/embedded-systems-assignment-1/)
 - [Embedded Systems Assignment 2: DMA](/projects/embedded-systems-assignment-2/)
 - [Embedded Systems Assignment 3: Mini Project](/projects/embedded-systems-assignment-3-mini-project/)
+- [Embodied AI](/projects/embodied-ai/)
