@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Assignment 1: From FPGA (PL) to CPU (PS)'
+title: 'Embedded Systems Assignment 1: From FPGA (PL) to CPU (PS)'
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ University of Southern Denmark
   src="/assets/projects/embedded-systems/Assignment1_Report_AdamKolodziej.pdf"
   type="application/pdf"
   width="100%"
-  height="800px">
+  height="1000px">
 </iframe>
 
 ## Videos

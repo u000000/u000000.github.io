@@ -15,5 +15,5 @@ University of Southern Denmark
   src="/assets/projects/embodied-ai/Embodied_AI___Report.pdf"
   type="application/pdf"
   width="100%"
-  height="800px">
+  height="1000px">
 </iframe>

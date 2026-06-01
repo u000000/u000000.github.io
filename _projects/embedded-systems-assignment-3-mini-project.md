@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Assignment 3: Mini Project'
+title: 'Embedded Systems Assignment 3: Mini Project'
 ---
 
 ## Overview
@@ -22,7 +22,7 @@ University of Southern Denmark
   src="/assets/projects/embedded-systems/ES_MiniProject.pdf"
   type="application/pdf"
   width="100%"
-  height="800px">
+  height="1000px">
 </iframe>
 
 ## GitHub
