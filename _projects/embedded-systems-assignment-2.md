@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Assignment 2: DMA'
+title: 'Embedded Systems Assignment 2: DMA'
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ University of Southern Denmark
   src="/assets/projects/embedded-systems/ES_Assigment_2_Group8.pdf"
   type="application/pdf"
   width="100%"
-  height="800px">
+  height="1000px">
 </iframe>
 
 ## GitHub

@@ -15,7 +15,7 @@ University of Southern Denmark
   src="/assets/projects/scientific-methods/A_review_of_UAV_landing_methods_using_FPV_drones.pdf"
   type="application/pdf"
   width="100%"
-  height="800px">
+  height="1000px">
 </iframe>
 
 ## Videos
