@@ -23,6 +23,7 @@ Warsaw University of Technology
 ## Pictures
 
 <img src="/assets/projects/precision-device-design-1/2.png" width="100%">
+<img src="/assets/projects/precision-device-design-1/1.png" width="100%">
 
 ## Drawings
 
