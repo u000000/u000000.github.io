@@ -8,7 +8,7 @@ title: Project Portfolio
 
 This is my project portfolio. I worked mostly on the hardware side, so you won't find much code here (though there is some). Have fun exploring!
 
-# Bigger Projects
+# Major Projects
 
 - [Design of a test device for UAV payloads - Master of Science in Engineering Thesis](/projects/design-of-a-test-device-for-uav-payloads/)
 - [Vertical Take-off and Landing aircraft creation](/projects/individual-study-activity/)
@@ -20,7 +20,7 @@ This is my project portfolio. I worked mostly on the hardware side, so you won't
 - [Outsmarting the projectiles: A DroneSimulation for Evading Bullets and Explosives](/projects/guidance-navigation-and-control/)
 - [Embedded Linux](/projects/embedded-linux/)
 
-# Minor Projects
+# Additional Projects
 
 - [Drawing Examples](/projects/drawing-examples/)
 - [Embedded Systems Assignment 1: From FPGA (PL) to CPU (PS)](/projects/embedded-systems-assignment-1/)
@@ -34,3 +34,18 @@ This is my project portfolio. I worked mostly on the hardware side, so you won't
 # FPV Drones
 > Drones have been one of my main hobbies and interests for many years. What started as a fascination with flying evolved into designing, building, and operating custom UAVs, as well as working on research, engineering, and commercial drone projects. They continue to be a major source of inspiration for both my personal and professional development.
 
+### Cinewhoops
+Precise and stable FPV drones designed for indoor and outdoor flights in close proximity to people and obstacles.
+- [2.5" FPV drones](/projects/2-5inch/)
+- [3" FPV drones](/projects/3inch/)
+- [3.5" FPV drones](/projects/3-5inch/)
+
+### Freestyle & Cinematic
+Agile and highly maneuverable drones used for dynamic aerial cinematography, freestyle flying, and vehicle chasing.
+- [5" FPV drones](/projects/5inch/)
+- [5.3" Bumblebee](/projects/5-3inch-bumblebee/)
+
+### Long Range & High Speed & Travelling
+Drones optimized for long-distance flights, mountain cruising, high-speed missions, and aircraft chasing.
+- [6" FPV drones](/projects/6inch/)
+- [7" FPV drones](/projects/7inch/)

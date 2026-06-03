@@ -17,3 +17,4 @@ title: 'Drawing Examples'
   height="600px">
 </iframe>
 
+<img src="/assets/projects/drawing-examples/CAM.png" width="100%">
